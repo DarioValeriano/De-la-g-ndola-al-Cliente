@@ -1,0 +1,7 @@
+arroz 1450 0 25
+leche 700 1 52
+jamon 8.82 0 3500
+queso 10 0 5000
+pollo 2000 1 5
+fideos 900 0 0
+atun 2300.20 1 10

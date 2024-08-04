@@ -1,0 +1,7 @@
+arroz 5
+leche 50
+jamon 200
+queso 500
+pollo 5
+fideos 10
+atun 20
